@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/futz.wav-fa1f2dc3d05a7b1e4a4311333e640667.sample"
+
+[deps]
+
+source_file="res://sound/futz.wav"
+dest_files=[ "res://.import/futz.wav-fa1f2dc3d05a7b1e4a4311333e640667.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
